@@ -276,6 +276,7 @@ The first 10 results of this query are displayed firstly in Table 5., and then g
 | PyTorch    | 149663               | 772                | 115539836                 | 2.14%                 |
 | Azure      | 135560               | 823                | 111565880                 | 2.00%                 |
 | Hadoop      | 141181               | 767                | 108285827                 | 2.01%                 |
+
 ***Table 5.** Query of top ten most optimal Data Science skills.*
 
 <br>
