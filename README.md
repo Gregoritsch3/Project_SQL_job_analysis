@@ -87,6 +87,7 @@ Running this query, we come up with results shown in Table 1.
 |126218 |Data Scientist       |Sudan        |320000.0       |2023-03-26 23:46:39|Teramind           |
 |488169 |Senior Data Scientist|Sudan        |315000.0       |2023-01-26 17:51:50|Life Science People|
 |1161630|Data Scientist       |United States|313000.0       |2023-08-23 22:03:48|Reddit             |
+
 ***Table 1.** Query results for the first 10 top-paying job postings.*
 
 Out of all the information contained in this table, one reasonable conclusion is that most of the remote highest paying job postings are from companies located inside the Unites States.
